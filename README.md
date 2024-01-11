@@ -1,5 +1,5 @@
 # RandomPasswordGenerator Proj.
-#Random Password Generator - Python 
+#Random Password Generator - Python code
 # You can adjust parameters 
-Change True to False, or adjust password length, or how many outputs in (howmuch)
+#Example: Change True to False, or adjust password length, or how many outputs in (howmuch)
 
